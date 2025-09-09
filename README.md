@@ -61,8 +61,6 @@ README template for a standout animated GitHub profile.
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Menna's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Mennaahmed08&show_icons=true&hide=issues&rank_icon=github"/></a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mennaahmed08&layout=compact&langs_count=8"/></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Mennaahmed08&row=1&margin-w=8"/></a>
