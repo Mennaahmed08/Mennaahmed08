@@ -11,7 +11,7 @@ README template for a standout animated GitHub profile.
 
 # Hi, I'm <span style="color:#8b5cf6">Menna Ahmed</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=800\&center=true\&vCenter=true\&width=650\&lines=UI%2FUX+Student+%26+Frontend+Explorer;I+design+%26+build+usable+interfaces;Learning+JS%2C+React%2C+and+Figma+every+day;Open+to+internships+and+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=800\&center=true\&vCenter=true\&width=650\&lines=%26+Frontend+Explorer;I+%26+build+usable+interfaces;Learning+JS%2C+React%2C;Open+to+internships+and+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 </div>
