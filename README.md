@@ -5,13 +5,14 @@ README template for a standout animated GitHub profile.
 3) Commit this as README.md in a repo named exactly your USERNAME.
 -->
 
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="wave"/>
 
 # Hi, I'm <span style="color:#8b5cf6">Menna Ahmed</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=800\&center=true\&vCenter=true\&width=650\&lines=%26+Frontend+Explorer;I+%26+build+usable+interfaces;Learning+JS%2C+React%2C;Open+to+internships+and+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=800\&center=true\&vCenter=true\&width=650\&lines=Frontend+Developer+with+React+%26+Vite;I+love+building+modern+web+apps;Learning+%26+improving+every+day;Open+to+internships+and+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 </div>
