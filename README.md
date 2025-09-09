@@ -70,20 +70,17 @@ README template for a standout animated GitHub profile.
 
 ## 🎯 What I’m Focusing On
 
-* Building **clean components** with **React** & **Tailwind**
-* Practicing **accessibility (a11y)** and **semantic HTML**
-* Improving **UX writing** and **micro-interactions**
+* Strengthening my **JavaScript (ES6+)** fundamentals  
+* Building projects with **React + Vite**  
+* Practicing **responsive design** and **TailwindCSS**  
+* Learning **API integration** and state management  
 
 ---
 
 ## 💬 Let’s Connect
 
-<a href="mailto:menna128492@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/menna-ahmed-3a5484324/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-</a>o:menna128492@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Menna%20Ahmed-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/menna-ahmed-3a5484324/)
+* [![Email](https://img.shields.io/badge/Email-menna128492%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:menna128492@gmail.com)
 
 ---
 
