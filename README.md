@@ -13,7 +13,6 @@ README template for a standout animated GitHub profile.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=800\&center=true\&vCenter=true\&width=650\&lines=UI%2FUX+Student+%26+Frontend+Explorer;I+design+%26+build+usable+interfaces;Learning+JS%2C+React%2C+and+Figma+every+day;Open+to+internships+and+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://github.com/Mennaahmed08?tab=followers"><img src="https://img.shields.io/github/followers/Mennaahmed08?label=Follow&style=for-the-badge" /></a> <a href="https://visitor-badge.laobi.icu/badge?page_id=Mennaahmed08.Mennaahmed08"><img src="https://visitor-badge.laobi.icu/badge?page_id=Mennaahmed08.Mennaahmed08&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/menna-ahmed-3a5484324/"><img src="https://img.shields.io/badge/LinkedIn-Menna%20Ahmed-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/></a> <a href="mailto:menna128492@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi!-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/></a>
 
 </div>
 
@@ -24,7 +23,7 @@ README template for a standout animated GitHub profile.
 * 🎓 **Frontend newbie** who loves turning ideas into clean, friendly interfaces.
 * 🌱 Currently leveling up in **HTML/CSS/JS**, **React**, and **Figma**.
 * 🛠 I enjoy component systems, design tokens, and accessible UI.
-* 🤝 I’m open to **internships**, **junior roles**, or **collabs** on web projects.
+* 🤝 I’m open to **internships**, **collabs** on web projects.
 
 ---
 
@@ -52,9 +51,8 @@ README template for a standout animated GitHub profile.
 
 > Quick peeks at things I’m learning & building. *(Replace with your repos!)*
 
-* **Landing Page UI** – responsive layout + grid + animations → [Repo](https://github.com/USERNAME/landing-page)
-* **Todo App** – vanilla JS with localStorage → [Repo](https://github.com/USERNAME/todo-app)
-* **Figma System** – design components & tokens → [Figma](https://figma.com/@menna)
+* **Landing Page UI** – responsive layout + grid + animations → [https://github.com/Mennaahmed08/simple-landing-page]
+* **Todo App** – vanilla JS with localStorage → [https://github.com/Mennaahmed08/To-Do-App]
 
 ---
 
