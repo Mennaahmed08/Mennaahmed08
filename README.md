@@ -52,8 +52,8 @@ README template for a standout animated GitHub profile.
 
 > Quick peeks at things I’m learning & building.
 
-* **Landing Page UI** – responsive layout + grid + animations → (https://github.com/Mennaahmed08/simple-landing-page)
-* **Todo App** – vanilla JS with localStorage → (https://github.com/Mennaahmed08/To-Do-App)
+* **Landing Page UI** – responsive layout + grid + animations → [Repo](https://github.com/Mennaahmed08/simple-landing-page)  
+* **Todo App** – vanilla JS with localStorage → [Repo](https://github.com/Mennaahmed08/To-Do-App)
 
 ---
 
@@ -79,8 +79,8 @@ README template for a standout animated GitHub profile.
 
 ## 💬 Let’s Connect
 
-* 💼 LinkedIn:(https://www.linkedin.com/in/menna-ahmed-3a5484324/)
-* ✉️ Email:(mailto:menna128492@gmail.com)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Menna%20Ahmed-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/menna-ahmed-3a5484324/)
+* [![Email](https://img.shields.io/badge/Email-menna128492%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:menna128492@gmail.com)
 
 ---
 
