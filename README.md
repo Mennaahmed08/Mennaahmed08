@@ -1,4 +1,4 @@
-my<!--
+<!--
 README template for a standout animated GitHub profile.
 1) Replace ALL occurrences of USERNAME with your actual GitHub username.
 2) Replace links for LinkedIn/Behance/Email.
