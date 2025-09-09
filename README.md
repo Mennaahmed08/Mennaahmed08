@@ -39,7 +39,7 @@ README template for a standout animated GitHub profile.
     <img alt="JavaScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img alt="Bootstrap" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-    <img alt="TailwindCSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg"/>
+    <img alt="TailwindCSS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
     <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
     <img alt="VS Code" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -81,19 +81,6 @@ README template for a standout animated GitHub profile.
 
 * 💼 LinkedIn: [https://linkedin.com/in/menna-your-handle](https://www.linkedin.com/in/menna-ahmed-3a5484324/)
 * ✉️ Email: [menna@example.com](mailto:menna128492@gmail.com)
-
----
-
-## 🐍 Contribution Snake (optional)
-
-> If you want the animated snake in your profile, follow the instructions in the repo below and enable the GitHub Action.
-
-
-https://github.com/Mennaahmed08/Mennaahmed08/blob/output/github-contribution-grid-snake.svg
-
-
-**Guide:** [https://github.com/Platane/snk](https://github.com/Platane/snk)
-
 
 ---
 
