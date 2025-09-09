@@ -5,7 +5,6 @@ README template for a standout animated GitHub profile.
 3) Commit this as README.md in a repo named exactly your USERNAME.
 -->
 
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" alt="wave"/>
